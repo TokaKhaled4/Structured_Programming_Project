@@ -4,6 +4,9 @@
 
 This Supermarket Management System is a group project developed for the structured programming course during the freshman year of college. It is designed to provide users with a convenient way to shop for groceries online, manage their shopping cart, and place orders.
 
+## My Role
+
+-[Worked on login and sign up page ]
 ## Features
 
 - **User Authentication**: Allows users to sign up with their personal information and login securely to access the system.
