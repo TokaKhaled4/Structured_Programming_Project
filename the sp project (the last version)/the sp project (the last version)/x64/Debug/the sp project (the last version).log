@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Toka Khaled\source\repos\the sp project (the last version)\the sp project (the last version)\Source.cpp(120,8): warning C4101: 'quant': unreferenced local variable
+C:\Users\Toka Khaled\source\repos\the sp project (the last version)\the sp project (the last version)\Source.cpp(117,6): warning C4101: 'ch': unreferenced local variable
+C:\Users\Toka Khaled\source\repos\the sp project (the last version)\the sp project (the last version)\Source.cpp(119,7): warning C4101: 'addp': unreferenced local variable
+C:\Users\Toka Khaled\source\repos\the sp project (the last version)\the sp project (the last version)\Source.cpp(396,8): warning C4101: 'space': unreferenced local variable
+C:\Users\Toka Khaled\source\repos\the sp project (the last version)\the sp project (the last version)\Source.cpp(380): warning C4715: 'login': not all control paths return a value
+  the sp project (the last version).vcxproj -> C:\Users\Toka Khaled\source\repos\the sp project (the last version)\x64\Debug\the sp project (the last version).exe
