@@ -6,7 +6,7 @@ This Supermarket Management System is a group project developed for the structur
 
 ## My Role
 
--[Worked on login and sign up page ]
+- Worked on login and sign up page 
 ## Features
 
 - **User Authentication**: Allows users to sign up with their personal information and login securely to access the system.
